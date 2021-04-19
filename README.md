@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile! Feel free to contact me 👋</h1>
 
-<h2>About me:</h2>
+##About me:
 - 🔭 I’m currently working on Open Labs SA
 - 🌱 Recently started to learn Kotlin, DevOps, IoT, QA, Design Patterns, JSF 
 - 🎓 FIAP University -> Class of 2021 
