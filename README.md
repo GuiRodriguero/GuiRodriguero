@@ -12,4 +12,4 @@ LinkedIn: https://www.linkedin.com/in/guirodriguero/
 
 Instagram: https://www.instagram.com/gui_rodriguero/
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=GuiRodriguero&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiRodriguero)](https://github.com/anuraghazra/github-readme-stats)
