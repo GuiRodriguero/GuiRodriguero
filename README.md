@@ -11,3 +11,8 @@
 LinkedIn: https://www.linkedin.com/in/guirodriguero/
 
 Instagram: https://www.instagram.com/gui_rodriguero/
+
+
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
