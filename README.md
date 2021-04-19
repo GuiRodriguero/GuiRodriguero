@@ -15,4 +15,3 @@ Instagram:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/guirodriguero/)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gui_rodriguero/)
- [![Outlook Badge](https://img.shields.io/badge/-gui.rodriguero@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:gui.rodriguero@hotmail.com)
