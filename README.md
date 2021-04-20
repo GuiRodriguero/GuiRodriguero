@@ -4,7 +4,7 @@
 
 ### About me:
 - 🔭 I’m currently working on Open Labs SA
-- 🌱 Recently started to learn Kotlin, DevOps, IoT, QA, Design Patterns, JSF 
+- 🌱 Recently started to learn Kotlin, React Native, IoT, Design Patterns, JSF 
 - 🎓 FIAP University -> Class of 2021 
 
 <hr>
