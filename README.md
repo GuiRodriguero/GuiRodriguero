@@ -3,7 +3,7 @@
 </h1>
 
 ### About me:
-- 🔭 I’m currently working on Open Labs SA
+- 🔭 I’m currently working at Open Labs SA
 - 🌱 Recently started to learn Kotlin, React Native, IoT, Design Patterns, JSF 
 - 🎓 FIAP University -> Class of 2021 
 
