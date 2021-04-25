@@ -7,6 +7,11 @@
 - 🌱 Recently started to learn Kotlin, React Native, IoT, Design Patterns, JSF 
 - 🎓 FIAP University -> Class of 2021 
 
+<hr>
+
+[![GuiRodriguero's github stats](https://github-readme-stats.vercel.app/api?username=GuiRodriguero&theme=nord&show_icons=true "![GuiRodriguero's github stats")](https://github.com/GuiRodriguero/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguero&layout=compact&theme=nord)](https://github.com/guirodriguero/github-readme-stats)
 
 <hr>
 ### 👇 How to reach me 👇
