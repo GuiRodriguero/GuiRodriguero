@@ -4,7 +4,8 @@
 
 ### About me:
 - 🔭 I’m currently working at Open Labs SA (using Spring MVC and integrating services with SOA Service Bus)
-- 🌱 Recently started to learn Kotlin, React Native, IoT, Design Patterns, JSF 
+- ❤️ Specialties: Java (Spring MVC), SQL
+- 🌱 Recently started to learn Thymeleaf, React Native, IoT, Design Patterns, JSF, Angular
 - 🎓 FIAP University -> Class of 2021 
 
 <hr>
