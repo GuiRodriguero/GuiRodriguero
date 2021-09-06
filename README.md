@@ -8,6 +8,17 @@
 - 🌱 Recently started to learn Thymeleaf, React Native, IoT, Design Patterns, JSF, Angular
 - 🎓 FIAP University -> Class of 2021 
 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">    
+</div>
+
 <hr>
 
 ### 👇 How to reach me 👇
@@ -16,7 +27,12 @@
 
 <hr>
 
-[![GuiRodriguero's github stats](https://github-readme-stats.vercel.app/api?username=GuiRodriguero&theme=nord&show_icons=true "![GuiRodriguero's github stats")](https://github.com/GuiRodriguero/github-readme-stats)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guirodriguero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguero&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguero&layout=compact&theme=nord)](https://github.com/guirodriguero/github-readme-stats)
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=guirodriguero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
