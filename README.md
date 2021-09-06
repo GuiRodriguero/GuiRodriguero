@@ -31,8 +31,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guirodriguero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguero&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=guirodriguero&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
