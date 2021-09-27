@@ -3,9 +3,8 @@
 </h1>
 
 ### About me:
-- 🔭 I’m currently working at Open Labs SA (using Spring MVC and integrating services with SOA Service Bus)
-- ❤️ Specialties: Java (Spring MVC), SQL
-- 🌱 Recently started to learn Thymeleaf, React Native, IoT, Design Patterns, JSF, Angular
+- ❤️ Specialties: Java (Spring MVC), SQL, React
+- 🌱 Recently started to learn React Native, IoT, Angular
 - 🎓 FIAP University -> Class of 2021 
 
 <div style="display: inline_block"><br>
