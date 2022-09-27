@@ -3,8 +3,7 @@
 </h1>
 
 ### About me:
-- ❤️ Specialties: Java (Spring MVC), SQL, React
-- 🌱 Recently started to learn React Native, IoT, Angular
+- ❤️ Java (Spring MVC), SQL, React
 - 🎓 FIAP University -> Class of 2021 
 
 <div style="display: inline_block"><br>
