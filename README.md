@@ -1,7 +1,3 @@
-<h1 align="center">
-    Welcome to my GitHub profile! Feel free to contact me 👋
-</h1>
-
 ### About me:
 - ❤️ Java (Spring MVC), SQL, React
 - 🎓 FIAP University -> Class of 2021 
