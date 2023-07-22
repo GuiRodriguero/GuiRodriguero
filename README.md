@@ -17,11 +17,5 @@
 
 ### 👇 How to reach me 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/guirodriguero/)
- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/gui_rodriguero/)
 
 <hr>
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guirodriguero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirodriguero&layout=compact&langs_count=7&theme=dracula"/>
-</div>
