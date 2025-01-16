@@ -1,4 +1,4 @@
-- ❤️ Java (Spring MVC), SQL, React, Docker, Kubernetes, AWS
+- ❤️ Java, Spring Boot, SQL, React, Docker, Kubernetes, AWS
 - 🎓 FIAP
 
 <hr>
